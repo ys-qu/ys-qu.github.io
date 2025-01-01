@@ -2,7 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Ph.D. Student <br> Research Assistant, Teaching Assistant <br>​Lyles School of Civil and Construction Engineering <br> Purdue University - West Lafayette <br> Office:&nbsp;Transportation Lab, HAMP <br> Email:&nbsp;<a href="qu120@purdue.edu">qu120@purdue.edu</a> <br> <a href="[https://scholar.google.com/citations?user=RgO7ppoAAAAJ&hl=en]([https://scholar.google.com/citations?user=hIt7KnUAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=hIt7KnUAAAAJ&hl=en&oi=sra))" target="_blank"> <img src="assets/img/google-scholar-logo.png" alt="Google Scholar" width="34" height="34"/> </a> &nbsp; <a href="[[https://www.linkedin.com/in/yansong-qu-006856330/]([https://www.linkedin.com/in/yansong-qu-006856330/](https://www.linkedin.com/in/yansong-qu-006856330/))](https://www.linkedin.com/in/yansong-qu-006856330/)"> <img src="assets/img/LinkedIn-logo.png" width="34" height="34"/> </a> &nbsp;
+subtitle: <p>
+  <strong>Ph.D. Student</strong> <br>
+  <strong>Research Assistant | Teaching Assistant</strong> <br>
+  Lyles School of Civil and Construction Engineering <br>
+  Purdue University, West Lafayette, IN <br>
+  <strong>Office:</strong> Transportation Lab, HAMP <br>
+  <strong>Email:</strong> <a href="mailto:qu120@purdue.edu">qu120@purdue.edu</a> <br>
+</p>
+
+<div style="margin-top: 10px;">
+  <a href="https://scholar.google.com/citations?user=hIt7KnUAAAAJ&hl=en&oi=sra" target="_blank">
+    <img src="assets/img/google-scholar-logo.png" alt="Google Scholar" width="34" height="34" style="vertical-align: middle;" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yansong-qu-006856330/" target="_blank">
+    <img src="assets/img/LinkedIn-logo.png" alt="LinkedIn" width="34" height="34" style="vertical-align: middle;" />
+  </a>
+</div>
 
 profile:
   align: right
