@@ -8,7 +8,7 @@ subtitle: <p>
   Lyles School of Civil and Construction Engineering <br>
   Purdue University, West Lafayette, IN <br>
   <strong>Office:</strong> Transportation Lab, HAMP <br>
-  <strong>Email:</strong> <a href="mailto:qu120@purdue.edu">qu120@purdue.edu</a> <br>
+  <strong>Email:</strong> <a href="qu120@purdue.edu">qu120@purdue.edu</a> <br>
 </p>
 
 <div style="margin-top: 10px;">
