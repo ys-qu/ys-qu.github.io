@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <img src="assets/img/handwriting.png" width = "170" height = "50" />
+  <img src="assets/img/handwriting.png" width = "170" height = "80" />
   <p>
     <strong>Ph.D. Student</strong> <br>
     <strong>Research Assistant | Teaching Assistant</strong> <br>
