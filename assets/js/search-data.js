@@ -63,7 +63,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-replay-of-safety-critical-scenarios",
+          section: "News",},{id: "projects-play-with-simulators",
+          title: 'Play with Simulators',
+          description: "I have been passionate about traffic simulation for a long time, exploring various simulators ranging from the classical VISSIM during my undergraduate studies to CARLA now as a Ph.D. student. This project aims to document and share insights in leveraging these tools for cutting-edge research.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Play-around-with-simulators/";
+            },},{id: "projects-replay-of-safety-critical-scenarios",
           title: 'Replay of Safety-critical Scenarios',
           description: "with background image",
           section: "Projects",handler: () => {
