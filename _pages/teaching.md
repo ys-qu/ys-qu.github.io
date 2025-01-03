@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching Assistant Experience
 
-Organize your courses by years, topics, or universities, however you like!
+**Course:** CE 39800: Introduction To Civil Engineering Systems Design (Fall 2024)
+**Role:** Teaching Assistant  
+**Description:** Assisted in delivering course content focused on systems design principles in civil engineering. Responsibilities included conducting tutorial sessions, helping students with design projects, grading assignments, and providing individualized support to enhance their understanding of key concepts.
