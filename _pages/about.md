@@ -21,7 +21,6 @@ subtitle: >
       <img src="assets/img/LinkedIn-logo.png" alt="LinkedIn" width="34" height="34" style="vertical-align: middle;" />
     </a>
   </div>
----
 
 
 profile:
