@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Jan 5 ~ Jan 9, 2025, I attended the 2025 TRB Annual Meeting!
