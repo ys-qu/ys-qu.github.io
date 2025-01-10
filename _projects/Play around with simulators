@@ -49,7 +49,16 @@ Let's look closer at the road section from HuFang Bridge to CaiShiKou.
     Road Section from HuFang Bridge to CaiShiKou.
 </div>
 
-We can use the VISSIM simulations to study on the road capacity and congestion situtation and so on. This can be a grea help to the traffic engineers!
+We can use the VISSIM simulations to study on the road capacity and congestion situtation and so on. This can be a great help to the traffic engineers!
 
 
+I trained a PPO (Proximal Policy Optimization) agent in the TORCS environment to control vehicle motion, and the results are quite promising. As shown in the figure below, the agent demonstrates effective control over the vehicle, successfully navigating the track and achieving smooth and stable performance.
+<div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects_play_simulators/TORCS_PPO.gif" title="Road Section from HuFang Bridge to CaiShiKou" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    PPO agent navigating in TORCS.
+</div>
 
