@@ -52,11 +52,11 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-attended-the-2025-trb-annual-meeting-tada-star",
+    },{id: "news-i-attended-the-2025-trb-annual-meeting-tada-star",
           title: 'I attended the 2025 TRB Annual Meeting!  :tada: :star:',
+          description: "",
+          section: "News",},{id: "news-i-visited-google-sparkles-smile",
+          title: 'I visited Google! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-play-with-simulators",
           title: 'Play with Simulators',
