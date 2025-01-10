@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <img src="assets/img/handwriting.png" width = "170" height = "80" />
+  <img src="assets/img/handwriting.png" width="170" height="80" />
   <p>
     <strong>Ph.D. Student</strong> <br>
     <strong>Research Assistant | Teaching Assistant</strong> <br>
@@ -22,11 +22,11 @@ subtitle: >
     </a>
   </div>
 
-
 profile:
-  align: right
-  image: Profile-qys.jpg
-  image_circular: false # crops the image to make it circular
+  align: top-right
+  image: assets/img/Profile-qys.jpg
+  image_circular: false
+  image_class: profile-image-top-right
   more_info: >
     <p>Transportation Lab</p>
     <p>Delon and Elizabeth Hampton Hall of Civil Engineering</p>
@@ -37,9 +37,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-
 Hi there! Welcome to my personal website! 👋
 
-I am currently a first-year Ph.D. student in Civil Engineering (Transportation) at Purdue University - West Lafayette, advised by Prof. Samuel Labi and co-advised by  Prof. Sikai Chen (UW-Madison).
+I am currently a first-year Ph.D. student in Civil Engineering (Transportation) at Purdue University - West Lafayette, advised by Prof. Samuel Labi and co-advised by Prof. Sikai Chen (UW-Madison).
 
 My research centers on Artificial Intelligence (AI) in transportation and Intelligent Autonomous Systems, with a particular focus on autonomous driving, human-in-the-loop AI, human-robot interaction, reinforcement learning, multimodal large language models, transfer learning, spatiotemporal data mining, and traffic safety. My work strives to bridge the gap between theoretical advancements and real-world applications.
+
