@@ -32,7 +32,7 @@ profile:
     <p>Delon and Elizabeth Hampton Hall of Civil Engineering</p>
     <p>West Lafayette, IN 47907</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
