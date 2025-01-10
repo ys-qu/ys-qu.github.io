@@ -62,3 +62,5 @@ I trained a PPO (Proximal Policy Optimization) agent in the TORCS environment to
     PPO agent navigating in TORCS.
 </div>
 
+
+Finally, two my most used simulators recently, CARLA and Metadrive, they are frequently used for autonomous driving research recently, especially in the human-in-the-loop RL due to their high-fidality, 3D space, and sensors.  
