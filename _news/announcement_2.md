@@ -17,7 +17,7 @@ I visited Google! :sparkles: :smile: It was an amazing experience, and I am exci
 
   <!-- Badge -->
   <div style="text-align: center;">
-    <img src="assets/img/news/Jan 06 2025 Visited Google Badge.jpgg" alt="Google Access Badge" style="width: 70%; border-radius: 10px;">
+    <img src="assets/img/news/Jan 06 2025 Visited Google Badge.jpg" alt="Google Access Badge" style="width: 70%; border-radius: 10px;">
     <p style="margin-top: 10px;"><strong>My badge.</strong></p>
   </div>
 
