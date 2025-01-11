@@ -12,7 +12,7 @@ subtitle: >
     <strong>Office:</strong> Transportation Lab, HAMP <br>
     <strong>Email:</strong> <a href="mailto:qu120@purdue.edu">qu120@purdue.edu</a> <br>
   </p>
-  <div style="margin-top: 10px;">
+  <div style="margin-top: 10;">
     <a href="https://scholar.google.com/citations?user=hIt7KnUAAAAJ&hl=en&oi=sra" target="_blank">
       <img src="assets/img/google-scholar-logo.png" alt="Google Scholar" width="34" height="34" style="vertical-align: middle;" />
     </a>
