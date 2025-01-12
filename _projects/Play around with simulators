@@ -31,12 +31,18 @@ Also, I did a real-world case study of VISSIM simulation in Beijing, China.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects_play_simulators/Overall Bridge.png" title="The Road in CAD" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    The Road in CAD.
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects_play_simulators/Overall Capacity.gif" title="The Same Road in VISSIM" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A case study of VISSIM simulation in Beijing, China.
+    The VISSIM simulation of this road.
 </div>
 
 Let's look closer at the road section from HuFang Bridge to CaiShiKou.
