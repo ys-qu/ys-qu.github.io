@@ -52,11 +52,11 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-announcement-1",
-          title: 'Announcement_1',
+    },{id: "news-i-attended-the-2025-trb-annual-meeting",
+          title: 'I attended the 2025 trb annual meeting!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
+              window.location.href = "/news/I-attended-the-2025-TRB-Annual-Meeting!/";
             },},{id: "news-i-visited-google",
           title: 'I visited Google!',
           description: "",
