@@ -1,6 +1,5 @@
 ---
 layout: post
-title: I attended the 2025 TRB Annual Meeting! Beautiful scenery in DC!
 date: 2025-01-05
 inline: false
 related_posts: false
