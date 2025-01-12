@@ -58,10 +58,10 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/I-attended-the-2025-TRB-Annual-Meeting!/";
             },},{id: "news-i-visited-google",
-          title: 'I visited Google!',
+          title: 'I visited google!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/I-visited-Google!/";
             },},{id: "projects-play-with-simulators",
           title: 'Play with Simulators',
           description: "I have been passionate about traffic simulation for a long time, exploring various simulators ranging from the classical VISSIM during my undergraduate studies to CARLA now as a Ph.D. student. This project aims to document and share insights in leveraging these tools for cutting-edge research.",
