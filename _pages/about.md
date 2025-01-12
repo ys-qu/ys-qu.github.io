@@ -24,7 +24,7 @@ subtitle: >
 
 profile:
   align: top-right
-  image: assets/img/Profile-qys.jpg
+  image: Profile-qys.jpg
   image_circular: false
   image_class: profile-image-top-right
   more_info: >
