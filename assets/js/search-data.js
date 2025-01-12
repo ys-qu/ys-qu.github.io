@@ -52,8 +52,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-",
-          title: '',
+    },{id: "news-i-attended-the-2025-trb-annual-meeting-beautiful-scenery-in-dc",
+          title: 'I attended the 2025 TRB Annual Meeting! Beautiful scenery in DC!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
