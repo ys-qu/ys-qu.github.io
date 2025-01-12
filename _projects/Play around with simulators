@@ -12,7 +12,7 @@ related_publications: false
 First we have some examples of simulation scenarios in Simulink, showcasing vehicle detection and sensor coverage in a dynamic driving environment. The plots illustrate radar and vision sensor coverage areas, road boundaries, and detected objects. Key elements such as vehicle tracks, radar detections (red), and vision detections (blue) are highlighted, providing insights into the perception and tracking capabilities of the system in different scenarios.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brake.gif" title="Brake" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects_play_simulators/brake.gif" title="Brake" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects_play_simulators/lane_following.gif" title="Lane Following" class="img-fluid rounded z-depth-1" %}
