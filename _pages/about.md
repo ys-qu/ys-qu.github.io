@@ -20,6 +20,18 @@ subtitle: >
     <a href="https://www.linkedin.com/in/yansong-qu-006856330/" target="_blank">
       <img src="/assets/img/LinkedIn-logo.png" alt="LinkedIn" width="34" height="34" style="vertical-align: middle;" />
     </a>
+    &nbsp;
+    <a href="https://github.com/ys-qu" target="_blank">
+      <img src="/assets/img/GitHub-icon.png" alt="GitHub" width="34" height="34" style="vertical-align: middle;" />
+    </a>
+    &nbsp;
+    <a href="https://www.youtube.com/channel/UCiD__1acn31uSOt2Snlg1sg" target="_blank">
+      <img src="/assets/img/youtube-icon.png" alt="YouTube" width="34" height="34" style="vertical-align: middle;" />
+    </a>
+    &nbsp;
+    <a href="https://orcid.org/0000-0002-0136-0185" target="_blank">
+      <img src="/assets/img/ORCID-icon.png" alt="ORCID" width="34" height="34" style="vertical-align: middle;" />
+    </a>
   </div>
 
 profile:
