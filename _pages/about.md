@@ -32,6 +32,10 @@ subtitle: >
     <a href="https://orcid.org/0000-0002-0136-0185" target="_blank">
       <img src="/assets/img/ORCID-icon.png" alt="ORCID" width="34" height="34" style="vertical-align: middle;" />
     </a>
+    &nbsp;
+    <a href="https://huggingface.co/ys-qu" target="_blank">
+      <img src="/assets/img/huggingface-icon.png" alt="huggingface" width="34" height="34" style="vertical-align: middle;" />
+    </a>
   </div>
 
 profile:
