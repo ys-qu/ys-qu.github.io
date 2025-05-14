@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: news
+title: 👏 I visited Google!
 date: 2025-01-06
 inline: false
 related_posts: false
+image: /assets/img/news/Jan_06_2025_Visited_Google.jpg
+image_fit: cover
+selected: true
 ---
 
-I visited Google! :sparkles: :smile: It was an amazing experience, and I am excited to share a couple of memorable moments.
+I visited Google! It was an amazing experience, and I am excited to share a couple of memorable moments.
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
