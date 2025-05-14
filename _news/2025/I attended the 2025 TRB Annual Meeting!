@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: post
 title: 👏 I attended the 2025 TRB Annual Meeting!
 date: 2025-01-05
 inline: false
@@ -9,7 +9,7 @@ image_fit: cover
 selected: true
 ---
 
-I attended the 2025 TRB Annual Meeting! Beautiful scenery in DC!  :tada: :star:
+I attended the 2025 TRB Annual Meeting! Beautiful scenery in DC!
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
