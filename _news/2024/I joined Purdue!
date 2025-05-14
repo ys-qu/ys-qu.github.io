@@ -1,0 +1,31 @@
+---
+layout: news
+title: 👏 I joined Purdue.
+date: 2024-07-09
+inline: false
+related_posts: false
+image: /assets/img/news/2024/purdue/purdue-1.jpg
+image_fit: cover
+selected: true
+---
+
+I joined Purdue University as a new PhD student. Boiler Up!
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="text-align: center;">
+    <img src="/assets/img/news/2024/purdue/purdue-1.jpg" alt="purdue-1" style="width: 70%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>Purdue Moment</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/news/2024/purdue/purdue-2.jpg" alt="purdue-2" style="width: 70%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>Purdue Moment</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/news/2024/purdue/purdue-3.jpg" alt="purdue-3" style="width: 70%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>Purdue Moment</strong></p>
+  </div>
+
+</div>

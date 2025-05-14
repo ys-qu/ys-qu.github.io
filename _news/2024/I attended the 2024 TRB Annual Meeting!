@@ -1,0 +1,36 @@
+---
+layout: news
+title: 👏 I attended the 2024 TRB Annual Meeting!.
+date: 2024-01-05
+inline: false
+related_posts: false
+image: /assets/img/news/2024/trb/trb-1.jpg
+image_fit: cover
+selected: true
+---
+
+I attended the 2024 TRB Annual Meeting and presented my work on spatiotemporal data mining!
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="text-align: center;">
+    <img src="/assets/img/news/2024/trb/trb-1.jpg" alt="trb-1" style="width: 70%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>BJUT Members</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/news/2024/trb/trb-2.jpg" alt="trb-2" style="width: 70%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>Poster</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/news/2024/trb/trb-3.jpg" alt="trb-3" style="width: 70%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>Sky-lab Members</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/news/2024/trb/trb-4.jpg" alt="trb-4" style="width: 70%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>Sky-lab Members</strong></p>
+  </div>
+
+</div>

@@ -1,0 +1,28 @@
+---
+layout: news
+title: 👏 I attended the 11th Midwest Workshop on Control and Game Theory (MWCGT) in UIUC!
+date: 2025-04-26
+inline: false
+related_posts: false
+image: /assets/img/news/2025/uiuc/poster.jpg
+image_fit: cover
+selected: true
+---
+
+I attended the 11th Midwest Workshop on Control and Game Theory (MWCGT) in UIUC to present my resent work "VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving".
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <!-- Photo -->
+  <div style="text-align: center;">
+    <img src="/assets/img/news/2025/uiuc/poster.jpg" alt="Me and Poster" style="width: 70%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>Me and Poster.</strong></p>
+  </div>
+
+  <!-- Badge -->
+  <div style="text-align: center;">
+    <img src="/assets/img/news/2025/uiuc/campus.jpg" alt="UIUC Campus" style="width: 70%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>UIUC Campus.</strong></p>
+  </div>
+
+</div>
