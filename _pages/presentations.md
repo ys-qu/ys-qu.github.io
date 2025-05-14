@@ -305,34 +305,6 @@ h5:hover {
 <h5 id="year-2025" style="text-align: left;">2025</h5>
 <div class="talks-container">
   <div class="year-section">
-    <div class="talk-card" style="padding-left: 0;">
-      <div class="talk-title">
-        <a href="/news/2025/I attended the 2025 TRB Annual Meeting!/" style="color: var(--global-theme-color); text-decoration: none; border-bottom: 1px dashed var(--global-theme-color); transition: all 0.3s ease;">
-          2025 TRB Annual Meeting <i class="fas fa-external-link-alt" style="font-size: 0.8em; margin-left: 5px;"></i>
-        </a>
-      </div>
-      <div class="talk-venue">January 9, 2025 | Washington, DC, US</div>
-      <div class="talk-topic">
-        <strong>Topic:</strong> Towards 3D semantic scene completion for autonomous driving: a meta-learning framework empowered by deformable large-kernel attention and Mamba model
-
-      </div>
-      <div class="talk-images">
-        <div class="row">
-          <div class="col-md-6">
-            <img class="img-fluid rounded z-depth-1" src="/assets/news/2025/trb/group.jpg" style="width: 100%; height: 350px; object-fit: cover; object-position: center 70%;" loading="lazy">
-            <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
-              Group Members
-            </p>
-          </div>
-          <div class="col-md-6">
-            <img class="img-fluid rounded z-depth-1" src="/assets/news/2025/trb/poster.png" style="width: 100%; height: 350px; object-fit: cover;" loading="lazy">
-            <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
-              Poster
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <div class="talk-card" style="padding-left: 0;">
       <div class="talk-title">
@@ -348,13 +320,13 @@ h5:hover {
       <div class="talk-images">
         <div class="row">
           <div class="col-md-6">
-            <img class="img-fluid rounded z-depth-1" src="/assets/news/2025/uiuc/poster.jpg" style="width: 100%; height: 350px; object-fit: cover; object-position: center 70%;" loading="lazy">
+            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2025/uiuc/poster.jpg" style="width: 100%; height: 350px; object-fit: cover; object-position: center 70%;" loading="lazy">
             <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
               Presentation
             </p>
           </div>
           <div class="col-md-6">
-            <img class="img-fluid rounded z-depth-1" src="/assets/news/2025/uiuc/poster_.png" style="width: 100%; height: 350px; object-fit: cover;" loading="lazy">
+            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2025/uiuc/poster_.png" style="width: 100%; height: 350px; object-fit: cover;" loading="lazy">
             <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
               Poster
             </p>
@@ -370,6 +342,36 @@ h5:hover {
         <strong>Topic:</strong> VLM-RL: Vision-Language Models for Reinforcement Learning in Autonomous Driving
       </div>
     </div>
+
+    <div class="talk-card" style="padding-left: 0;">
+      <div class="talk-title">
+        <a href="/news/2025/I attended the 2025 TRB Annual Meeting!/" style="color: var(--global-theme-color); text-decoration: none; border-bottom: 1px dashed var(--global-theme-color); transition: all 0.3s ease;">
+          2025 TRB Annual Meeting <i class="fas fa-external-link-alt" style="font-size: 0.8em; margin-left: 5px;"></i>
+        </a>
+      </div>
+      <div class="talk-venue">January 9, 2025 | Washington, DC, US</div>
+      <div class="talk-topic">
+        <strong>Topic:</strong> Towards 3D semantic scene completion for autonomous driving: a meta-learning framework empowered by deformable large-kernel attention and Mamba model
+
+      </div>
+      <div class="talk-images">
+        <div class="row">
+          <div class="col-md-6">
+            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2025/trb/group.jpg" style="width: 100%; height: 350px; object-fit: cover; object-position: center 70%;" loading="lazy">
+            <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
+              Group Members
+            </p>
+          </div>
+          <div class="col-md-6">
+            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2025/trb/poster.png" style="width: 100%; height: 350px; object-fit: cover;" loading="lazy">
+            <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
+              Poster
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -395,7 +397,7 @@ h5:hover {
             </p>
           </div>
           <div class="col-md-6">
-            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2024/trb/poster.jpg" style="width: 100%; height: 350px; object-fit: cover;" loading="lazy">
+            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2024/trb/poster.png" style="width: 100%; height: 350px; object-fit: cover;" loading="lazy">
             <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
               Poster
             </p>

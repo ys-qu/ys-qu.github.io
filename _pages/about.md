@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   <img src="/assets/img/handwriting.png" width="170" height="80" />
