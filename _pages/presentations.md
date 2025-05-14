@@ -308,7 +308,7 @@ h5:hover {
 
     <div class="talk-card" style="padding-left: 0;">
       <div class="talk-title">
-        <a href="/news/2025/I attended the 11th Midwest Workshop on Control and Game Theory (MWCGT) in UIUC!/" style="color: var(--global-theme-color); text-decoration: none; border-bottom: 1px dashed var(--global-theme-color); transition: all 0.3s ease;">
+        <a href="/_news/2025/I attended the 11th Midwest Workshop on Control and Game Theory (MWCGT) in UIUC!/" style="color: var(--global-theme-color); text-decoration: none; border-bottom: 1px dashed var(--global-theme-color); transition: all 0.3s ease;">
           11th Midwest Workshop on Control and Game Theory (MWCGT) <i class="fas fa-external-link-alt" style="font-size: 0.8em; margin-left: 5px;"></i>
         </a>
       </div>
@@ -326,7 +326,7 @@ h5:hover {
             </p>
           </div>
           <div class="col-md-6">
-            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2025/uiuc/poster_.png" style="width: auto; height: 350px; object-fit: cover;" loading="lazy">
+            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2025/uiuc/poster_.png" style="width: auto; height: 350px; object-fit: contain;" loading="lazy">
             <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
               Poster
             </p>
@@ -345,7 +345,7 @@ h5:hover {
 
     <div class="talk-card" style="padding-left: 0;">
       <div class="talk-title">
-        <a href="/news/2025/I attended the 2025 TRB Annual Meeting!/" style="color: var(--global-theme-color); text-decoration: none; border-bottom: 1px dashed var(--global-theme-color); transition: all 0.3s ease;">
+        <a href="/_news/2025/I attended the 2025 TRB Annual Meeting!/" style="color: var(--global-theme-color); text-decoration: none; border-bottom: 1px dashed var(--global-theme-color); transition: all 0.3s ease;">
           2025 TRB Annual Meeting <i class="fas fa-external-link-alt" style="font-size: 0.8em; margin-left: 5px;"></i>
         </a>
       </div>
@@ -363,7 +363,7 @@ h5:hover {
             </p>
           </div>
           <div class="col-md-6">
-            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2025/trb/poster.png" style="width: auto; height: 350px; object-fit: cover;" loading="lazy">
+            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2025/trb/poster.png" style="width: auto; height: 350px; object-fit: contain;" loading="lazy">
             <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
               Poster
             </p>
@@ -380,7 +380,7 @@ h5:hover {
   <div class="year-section">
     <div class="talk-card" style="padding-left: 0;">
       <div class="talk-title">
-        <a href="/news/2024/I attended the 2024 TRB Annual Meeting!" style="color: var(--global-theme-color); text-decoration: none; border-bottom: 1px dashed var(--global-theme-color); transition: all 0.3s ease;">
+        <a href="/_news/2024/I attended the 2024 TRB Annual Meeting!" style="color: var(--global-theme-color); text-decoration: none; border-bottom: 1px dashed var(--global-theme-color); transition: all 0.3s ease;">
           2024 TRB Annual Meeting <i class="fas fa-external-link-alt" style="font-size: 0.8em; margin-left: 5px;"></i>
         </a>
       </div>
@@ -397,7 +397,7 @@ h5:hover {
             </p>
           </div>
           <div class="col-md-6">
-            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2024/trb/poster.png" style="width: auto; height: 350px; object-fit: cover;" loading="lazy">
+            <img class="img-fluid rounded z-depth-1" src="/assets/img/news/2024/trb/poster.png" style="width: auto; height: 350px; object-fit: contain;" loading="lazy">
             <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
               Poster
             </p>
