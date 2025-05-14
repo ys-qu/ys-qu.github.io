@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <img src="assets/img/handwriting.png" width="170" height="80" />
+  <img src="/assets/img/handwriting.png" width="170" height="80" />
   <p>
     <strong>Ph.D. Student</strong> <br>
     <strong>Research Assistant | Teaching Assistant</strong> <br>
@@ -14,11 +14,11 @@ subtitle: >
   </p>
   <div style="margin-top: 10;">
     <a href="https://scholar.google.com/citations?user=hIt7KnUAAAAJ&hl=en&oi=sra" target="_blank">
-      <img src="assets/img/google-scholar-logo.png" alt="Google Scholar" width="34" height="34" style="vertical-align: middle;" />
+      <img src="/assets/img/google-scholar-logo.png" alt="Google Scholar" width="34" height="34" style="vertical-align: middle;" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/yansong-qu-006856330/" target="_blank">
-      <img src="assets/img/LinkedIn-logo.png" alt="LinkedIn" width="34" height="34" style="vertical-align: middle;" />
+      <img src="/assets/img/LinkedIn-logo.png" alt="LinkedIn" width="34" height="34" style="vertical-align: middle;" />
     </a>
   </div>
 
