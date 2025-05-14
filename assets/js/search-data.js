@@ -52,26 +52,41 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-i-attended-the-2025-trb-annual-meeting",
+    },{id: "news-i-attended-the-2024-trb-annual-meeting",
+          title: '👏 I attended the 2024 TRB Annual Meeting!.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/I-attended-the-2024-TRB-Annual-Meeting!/";
+            },},{id: "news-i-graduated-from-bjut",
+          title: '👏 I graduated from BJUT.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/I-graduated-from-BJUT!/";
+            },},{id: "news-i-joined-purdue",
+          title: '👏 I joined Purdue.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/I-joined-Purdue!/";
+            },},{id: "news-i-attended-the-2025-trb-annual-meeting",
           title: '👏 I attended the 2025 TRB Annual Meeting!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/I-attended-the-2025-TRB-Annual-Meeting!/";
             },},{id: "news-i-visited-google",
-          title: 'I visited google!',
+          title: '👏 I visited Google!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/I-visited-Google!/";
+            },},{id: "news-i-attended-the-11th-midwest-workshop-on-control-and-game-theory-mwcgt-in-uiuc",
+          title: '👏 I attended the 11th Midwest Workshop on Control and Game Theory (MWCGT)...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/I-attended-the-11th-Midwest-Workshop-on-Control-and-Game-Theory-(MWCGT)-in-UIUC!/";
             },},{id: "projects-play-with-simulators",
           title: 'Play with Simulators',
           description: "I have been passionate about traffic simulation for a long time, exploring various simulators ranging from the classical VISSIM during my undergraduate studies to CARLA now as a Ph.D. student. This project aims to document and share insights in leveraging these tools for cutting-edge research.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Play-around-with-simulators/";
-            },},{id: "projects-replay-of-safety-critical-scenarios",
-          title: 'Replay of Safety-critical Scenarios',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Replay-of-Safety-critical-Scenarios/";
             },},{
         id: 'social-email',
         title: 'email',
