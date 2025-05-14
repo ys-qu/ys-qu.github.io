@@ -53,7 +53,7 @@ ninja.data = [{
         
       },
     },{id: "news-i-attended-the-2025-trb-annual-meeting",
-          title: 'I attended the 2025 trb annual meeting!',
+          title: '👏 I attended the 2025 TRB Annual Meeting!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/I-attended-the-2025-TRB-Annual-Meeting!/";
