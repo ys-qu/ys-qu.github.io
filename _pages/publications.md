@@ -61,7 +61,7 @@ nav_order: 4
   {% endfor %}
 </div>
 
-The list below may not be up to date, please check <a href="https://scholar.google.com/citations?user=RgO7ppoAAAAJ&hl=en">Google Scholar</a> for my latest publications.
+The list below may not be up to date, please check <a href="https://scholar.google.com/citations?user=hIt7KnUAAAAJ&hl=zh-CN">Google Scholar</a> for my latest publications.
 
 ---
 
