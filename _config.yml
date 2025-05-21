@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Autonomous Driving, Reinforcement Learning, Human-in-the-loop AI, Intelligent Transportation
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🚗 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ys-qu.github.io # the base hostname & protocol for your site
 baseurl:
