@@ -4,4 +4,17 @@ permalink: /cv/
 layout: single
 ---
 
-<iframe src="/assets/pdf/CV-Yansong Qu.pdf" width="35%" height="1200px" style="border:none;"></iframe>
+[📄 Download PDF Version](/assets/pdf/CV-Yansong%20Qu.pdf){:target="_blank"}
+
+<style>
+.cv-frame {
+    width: 100%;
+    height: 100vh;
+    border: none;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin: 0 auto;
+    display: block;
+}
+</style>
+
+<iframe class="cv-frame" src="/assets/pdf/CV-Yansong Qu.pdf"></iframe>
