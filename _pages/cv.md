@@ -1,7 +1,8 @@
 ---
-title: "CV"
+layout: cv
+title: CV
 permalink: /cv/
-layout: single
+cv_pdf: /assets/pdf/CV-Yansong%20Qu.pdf
 ---
 
 [📄 Download PDF Version](/assets/pdf/CV-Yansong%20Qu.pdf){:target="_blank"}
