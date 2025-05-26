@@ -259,7 +259,7 @@ h5:hover {
 
 <!-- Year navigation sidebar -->
 <div class="year-nav">
-  <a href="#year-2024">2023</a>
+  <a href="#year-2024">2024</a>
   <a href="#year-2023">2023</a>
   <a href="#year-2021">2021</a>
   <a href="#year-2020">2020</a>
