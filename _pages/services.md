@@ -198,6 +198,7 @@ h5:hover {
   <ul class="services-list academic-services">
     <li>Neural Networks</li>
     <li>Physica A: Statistical Mechanics and its Applications</li>
+    <li>Applied Intelligence</li>
   </ul>
 </div>
 
