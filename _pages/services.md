@@ -199,6 +199,7 @@ h5:hover {
     <li>Neural Networks</li>
     <li>Physica A: Statistical Mechanics and its Applications</li>
     <li>Applied Intelligence</li>
+    <li>Journal of Infrastructure Systems</li>
   </ul>
 </div>
 
