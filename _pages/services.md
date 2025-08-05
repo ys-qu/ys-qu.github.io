@@ -198,6 +198,7 @@ h5:hover {
   <ul class="services-list academic-services">
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Neural Networks</li>
+    <li>Neurocomputing</li>
     <li>Physica A: Statistical Mechanics and its Applications</li>
     <li>Applied Intelligence</li>
     <li>Journal of Infrastructure Systems</li>
