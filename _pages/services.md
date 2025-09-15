@@ -210,6 +210,6 @@ h5:hover {
   <h5 style="text-align: left;">Membership</h5>
   <ul class="services-list academic-services">
     <li>IEEE Student Member</li>
-    <li>ASCE AI In Transportation Committee Member</li>
+    <li>AI In Transportation Committee Member, ASCE</li>
   </ul>
 </div>
