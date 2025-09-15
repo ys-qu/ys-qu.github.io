@@ -76,8 +76,11 @@ My research centers on Artificial Intelligence (AI) in transportation and Intell
 I aim to bridge the gap between theoretical advancements and practical applications, creating innovative AI systems that not only advance academic understanding but also transform real-world transportation, contributing to smarter, safer, and more sustainable mobility solutions for the future.
 
 <div class="p-3 my-3 rounded"
-     style="background:#f8f4ff;border-left:6px solid #a855f7;
-            box-shadow:0 1px 2px rgba(0,0,0,.06); font-size:0.95rem;">
+     style="background:#f8f4ff;border-left:3px solid #a855f7;
+            box-shadow:0 1px 2px rgba(0,0,0,.06);
+            font-size:0.95rem;
+            max-width:65%;   /* 控制整体宽度 */
+            ">
   🔔 <strong>I am currently looking for 
     <span style="color:#d946ef;">Summer 2026</span> internships.</strong> 
   I would sincerely appreciate any opportunities or guidance. 
