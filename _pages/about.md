@@ -36,6 +36,20 @@ subtitle: >
     <a href="https://huggingface.co/ys-qu" target="_blank">
       <img src="/assets/img/huggingface-icon.png" alt="huggingface" width="34" height="34" style="vertical-align: middle;" />
     </a>
+    <!-- WeChat Icon -->
+    <a href="javascript:void(0)" onclick="document.getElementById('wechatModal').style.display='block'">
+      <img src="/assets/img/wechat-icon.png" alt="wechat" width="34" height="34" style="vertical-align: middle;" />
+    </a>
+    
+    <!-- Modal Popup -->
+    <div id="wechatModal" style="display:none; position:fixed; z-index:1000; left:0; top:0; width:100%; height:100%; 
+         background-color: rgba(0,0,0,0.6); text-align:center;">
+      <div style="margin-top:10%; display:inline-block; background:#fff; padding:20px; border-radius:10px;">
+        <span style="float:right; cursor:pointer; font-size:18px;" onclick="document.getElementById('wechatModal').style.display='none'">✖</span>
+        <p>Scan to add me on WeChat</p>
+        <img src="/assets/img/wechat-qr.jpg" alt="wechat-qr" style="max-width:250px; border:1px solid #ddd;" /> 
+      </div>
+    </div>
   </div>
 
 profile:
