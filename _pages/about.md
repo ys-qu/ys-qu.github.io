@@ -74,3 +74,14 @@ I am currently a second-year Ph.D. student in Civil Engineering (Transportation)
 My research centers on Artificial Intelligence (AI) in transportation and Intelligent Autonomous Systems, with a particular focus on autonomous driving, human-in-the-loop AI, human-robot interaction, reinforcement learning, multimodal large language models, transfer learning, spatiotemporal data mining, and traffic safety.
 
 I aim to bridge the gap between theoretical advancements and practical applications, creating innovative AI systems that not only advance academic understanding but also transform real-world transportation, contributing to smarter, safer, and more sustainable mobility solutions for the future.
+
+<div class="p-3 my-3 rounded"
+     style="background:#f8f4ff;border-left:6px solid #a855f7;
+            box-shadow:0 1px 2px rgba(0,0,0,.06); font-size:0.95rem;">
+  🔔 <strong>I am currently looking for 
+    <span style="color:#d946ef;">Summer 2026</span> internships.</strong> 
+  I would sincerely appreciate any opportunities or guidance. 
+  Please feel free to reach out via 
+  <a href="mailto:qu120@purdue.edu">Email</a> or 
+  <a href="/assets/img/wechat-qr.png" target="_blank">WeChat</a>.
+</div>
