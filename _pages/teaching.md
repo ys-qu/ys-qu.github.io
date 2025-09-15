@@ -22,7 +22,7 @@ nav_order: 6
   <!-- 右边文字 -->
   <div style="margin-left:20px;">
     <h5 style="margin:0; font-weight:600;">
-      CEE 39800: Introduction To Civil Engineering Systems Design
+      CE 39800: Introduction To Civil Engineering Systems Design
     </h5>
     <p style="margin:0.2rem 0; color:#a855f7; font-weight:500;">
       Fall 2024, Fall 2025 <em>(Teaching Assistant)</em>
