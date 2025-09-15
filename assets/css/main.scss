@@ -23,3 +23,30 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.page__hero img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  margin-bottom: 1rem;
+}
+
+.quote-card {
+  background: #fff;
+  border-left: 4px solid #a855f7;
+  border-radius: 12px;
+  padding: 1.5rem;
+  font-style: italic;
+  font-size: 1.05rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin: 0 auto 2rem auto;
+  max-width: 90%;
+}
+
+.quote-card footer {
+  margin-top: 0.8rem;
+  font-size: 0.9rem;
+  color: #777;
+  text-align: right;
+}
