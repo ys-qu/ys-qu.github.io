@@ -80,22 +80,35 @@ I trained a PPO (Proximal Policy Optimization) agent in the TORCS environment to
 </p>
 
 <div class="row">
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-sm-8 mt-3 mt-md-0">
     <video
       src="assets/img/projects_play_simulators/llm-driven%20ad.mp4"
-      class="img-fluid rounded z-depth-1"
+      class="img-fluid rounded z-depth-1 h-100"
       playsinline
       controls
       muted
       loop
       preload="metadata"
       title="LLM-driven agent driving in CARLA"
-      aria-label="LLM-driven agent driving in CARLA"
+    >
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    <video
+      src="assets/img/projects_play_simulators/llm-driven%20ad%20bev.mp4"
+      class="img-fluid rounded z-depth-1 h-100"
+      playsinline
+      controls
+      muted
+      loop
+      preload="metadata"
+      title="LLM-driven agent (BEV view)"
     >
       Your browser does not support the video tag.
     </video>
   </div>
 </div>
 <div class="caption">
-  LLM-driven agent navigating in CARLA.
+  LLM-driven agent navigating in CARLA (RGB view on the left, BEV view on the right).
 </div>
