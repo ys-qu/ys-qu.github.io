@@ -69,4 +69,33 @@ I trained a PPO (Proximal Policy Optimization) agent in the TORCS environment to
 </div>
 
 
-Finally, two my most used simulators recently, CARLA and Metadrive, they are frequently used for autonomous driving research recently, especially in the human-in-the-loop RL due to their high-fidality, 3D space, and sensors.  
+<!-- LLM-driven agent in CARLA -->
+<p>
+  I built an LLM-driven driving agent in CARLA. The agent receives both state information 
+  (e.g., speed, forward vector, and navigation command) and visual input (RGB and bird’s-eye-view images). 
+  These inputs are passed into a large language model (LLM) with a structured prompt that requests 
+  driving actions in JSON format. The model outputs continuous control signals—throttle, steering, and brake—
+  which are applied to the vehicle in real time. As shown below, the agent demonstrates smooth and 
+  stable driving behavior while responding to language-based navigation commands.
+</p>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    <video
+      src="assets/img/projects_play_simulators/llm-driven%20ad.mp4"
+      class="img-fluid rounded z-depth-1"
+      playsinline
+      controls
+      muted
+      loop
+      preload="metadata"
+      title="LLM-driven agent driving in CARLA"
+      aria-label="LLM-driven agent driving in CARLA"
+    >
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+<div class="caption">
+  LLM-driven agent navigating in CARLA.
+</div>
