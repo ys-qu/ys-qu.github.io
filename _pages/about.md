@@ -86,5 +86,5 @@ I aim to bridge the gap between theoretical advancements and practical applicati
   I would sincerely appreciate any opportunities or guidance. 
   Please feel free to reach out via 
   <a href="mailto:qu120@purdue.edu">Email</a> or 
-  <a href="/assets/img/wechat-qr.png" target="_blank">WeChat</a>.
+  <a href="/assets/img/wechat-qr.jpg" target="_blank">WeChat</a>.
 </div>
