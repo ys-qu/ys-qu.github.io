@@ -19,7 +19,7 @@ nav_order: 6
      style="background:#faf5ff; border-left:4px solid #a855f7; box-shadow:0 2px 6px rgba(0,0,0,0.08);">
   <!-- 左边封面 -->
   <div style="flex:0 0 220px;">
-    <img src="/assets/img/ce398.png" alt="CE 39800" 
+    <img src="/assets/img/ce398.jpeg" alt="CE 39800" 
          style="width:100%; border-radius:8px;">
   </div>
 
