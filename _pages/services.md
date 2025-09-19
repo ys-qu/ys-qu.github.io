@@ -196,6 +196,7 @@ h5:hover {
 <div class="services-container">
   <h5 style="text-align: left;">Journal Reviewer</h5>
   <ul class="services-list academic-services">
+    <li>Transportation Research Part C: Emerging Technologies</li>
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Neural Networks</li>
     <li>Neurocomputing</li>
