@@ -197,12 +197,14 @@ h5:hover {
   <h5 style="text-align: left;">Journal Reviewer</h5>
   <ul class="services-list academic-services">
     <li>Transportation Research Part C: Emerging Technologies</li>
+    <li>Transportation Engineering</li>
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Neural Networks</li>
     <li>Neurocomputing</li>
     <li>Physica A: Statistical Mechanics and its Applications</li>
     <li>Applied Intelligence</li>
     <li>Journal of Infrastructure Systems</li>
+    <li>PeerJ Computer Science</li>
   </ul>
 </div>
 
