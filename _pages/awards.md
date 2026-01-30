@@ -259,6 +259,7 @@ h5:hover {
 
 <!-- Year navigation sidebar -->
 <div class="year-nav">
+  <a href="#year-2026">2026</a>
   <a href="#year-2024">2024</a>
   <a href="#year-2023">2023</a>
   <a href="#year-2021">2021</a>
@@ -267,6 +268,13 @@ h5:hover {
 </div>
 
 <h4 style="text-align: left;">Honors & Awards</h4>
+
+<div class="honors-container">
+  <h5 id="year-2026" style="text-align: left;">2026</h5>
+  <ul class="awards-list">
+    <li>Lyles Teaching Assistant Award, Lyles School of Civil and Construction Engineering, Purude University</li>
+  </ul>
+</div>
 
 <div class="honors-container">
   <h5 id="year-2024" style="text-align: left;">2024</h5>
