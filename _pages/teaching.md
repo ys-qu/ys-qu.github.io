@@ -25,7 +25,7 @@ nav_order: 6
       CE 39800: Introduction To Civil Engineering Systems Design
     </h5>
     <p style="margin:0.2rem 0; color:#a855f7; font-weight:500;">
-      Fall 2024, Fall 2025 <em>(Teaching Assistant)</em>
+      Fall 2024, Fall 2025, Spring 2026 <em>(Teaching Assistant)</em>
     </p>
     <p style="margin:0; color:#444;">
       Instructor: Professor Samuel Labi
