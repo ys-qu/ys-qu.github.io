@@ -117,6 +117,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/I-attended-the-11th-Midwest-Workshop-on-Control-and-Game-Theory-(MWCGT)-in-UIUC!/";
+            },},{id: "news-found-rl-accepted-by-communications-in-transportation-research-commtr",
+          title: '🎉 Found-RL accepted by Communications in Transportation Research (COMMTR)!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/Found-RL-accepted-by-Communications-in-Transportation-Research!/";
             },},{id: "news-i-will-join-honda-ri-as-a-research-intern-this-summer",
           title: '👏 I will join Honda-RI as a research intern this summer!',
           description: "",
