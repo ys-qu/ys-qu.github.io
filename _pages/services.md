@@ -217,3 +217,32 @@ h5:hover {
     <li>AI In Transportation Committee Member, ASCE</li>
   </ul>
 </div>
+
+<h4 style="text-align: left;">Community Services</h4>
+
+<div class="services-container">
+  <h5 style="text-align: left;">Judging and Mentorship</h5>
+
+  <div class="conference-item">
+    <strong>
+      <a href="https://starkhacks.com/" style="color: var(--global-theme-color); text-decoration: none; border-bottom: 1px dashed var(--global-theme-color);">
+        StarkHacks
+      </a>
+    </strong>
+    — Judge (April 17–19, 2026)
+    <br>
+    <span style="color: var(--global-text-color-light); font-size: 0.95em;">
+      The world's largest hardware hackathon, organized by the Humanoid Robot Club at Purdue University, West Lafayette, IN
+    </span>
+    <div class="talk-images">
+      <div class="row">
+        <div class="col-md-6">
+          <img class="img-fluid rounded z-depth-1" src="/assets/img/StarkHacks-Judge-Certificate.png" style="height: 350px; object-fit: contain;" loading="lazy" alt="StarkHacks Judge Certificate">
+          <p style="text-align: center; margin-top: 10px; color: var(--global-text-color-light); font-size: 0.9em;">
+            Certificate of Appreciation
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
