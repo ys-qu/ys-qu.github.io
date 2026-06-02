@@ -2,12 +2,10 @@
 layout: post
 title: 👏 I joined Honda-RI as a research intern this summer!
 date: 2026-06-26
-permalink: /news/I-joined-Honda-RI!/
-inline: false
+permalink: /news/I-joined-HONDA-RI-as-a-research-intern-this-summer!/
 related_posts: false
 image: /assets/img/honda-ri.jpg
 image_fit: cover
-selected: true
 ---
 
 I am excited to share that I joined Honda Research Institute USA (Honda-RI) this summer as a research intern. I am grateful for this opportunity and look forward to working on AI-driven intelligent autonomy and mobility research.

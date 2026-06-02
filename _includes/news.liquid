@@ -8,18 +8,23 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign news = site.news | where_exp: "item", "item.redirect == nil" | sort: 'date' | reverse %}
+        {% assign news = site.news | sort: 'date' | reverse %}
         {% if include.limit and site.announcements.limit %}
           {% assign news_limit = site.announcements.limit %}
         {% else %}
           {% assign news_limit = news_size %}
         {% endif %}
         {% for item in news limit: news_limit %}
+          {% if item.redirect and item.selected != true %}
+            {% continue %}
+          {% endif %}
           <tr>
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+              {% elsif item.redirect %}
+                <a class="news-title" href="{{ item.redirect | relative_url }}">{{ item.title }}</a>
               {% else %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
               {% endif %}
