@@ -69,7 +69,11 @@ layout: default
       <hr>
     {% endif %}
     <div id="markdown-content">
-      {{ content }}
+      {% if page.collection and page.collection.label == 'news' %}
+        {{ content | markdownify }}
+      {% else %}
+        {{ content }}
+      {% endif %}
     </div>
   </article>
 
