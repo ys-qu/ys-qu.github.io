@@ -117,6 +117,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/I-attended-the-11th-Midwest-Workshop-on-Control-and-Game-Theory-(MWCGT)-in-UIUC!/";
+            },},{id: "news-i-attended-the-2026-trb-annual-meeting",
+          title: '👏 I attended the 2026 TRB Annual Meeting!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/I-attended-the-2026-TRB-Annual-Meeting!/";
             },},{id: "news-i-attended-and-presented-at-the-purdue-ai-research-showcase",
           title: '👏 I attended and presented at the Purdue AI Research Showcase!',
           description: "",
