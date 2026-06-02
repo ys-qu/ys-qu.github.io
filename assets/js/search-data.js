@@ -157,6 +157,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/I-joined-HONDA-RI-as-a-research-intern-this-summer!/";
+            },},{id: "news-i-joined-honda-ri-as-a-research-intern-this-summer",
+          title: '👏 I joined Honda-RI as a research intern this summer!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/I-joined-Honda-RI!/";
             },},{id: "projects-play-with-simulators",
           title: 'Play with Simulators',
           description: "I have been passionate about traffic simulation for a long time, exploring various simulators ranging from the classical VISSIM during my undergraduate studies to CARLA now as a Ph.D. student. This project aims to document and share insights in leveraging these tools for cutting-edge research.",
