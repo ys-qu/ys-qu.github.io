@@ -7,8 +7,8 @@ related_posts: false
 selected: true
 ---
 
-I am excited to share that our paper **"Found-RL: Foundation model-enhanced reinforcement learning via asynchronous VLM feedback for autonomous driving"** has been accepted by [Communications in Transportation Research (COMMTR)](https://www.sciopen.com/article/10.26599/COMMTR.2026.9640027).
+I am excited to share that our paper <strong>"Found-RL: Foundation model-enhanced reinforcement learning via asynchronous VLM feedback for autonomous driving"</strong> has been accepted by <a href="https://www.sciopen.com/article/10.26599/COMMTR.2026.9640027">Communications in Transportation Research (COMMTR)</a>.
 
 Found-RL is a platform that integrates foundation models (especially vision-language models) with reinforcement learning for autonomous driving, using an asynchronous batch inference framework to enable real-time learning from VLM feedback.
 
-The paper is now available online on [SciOpen](https://www.sciopen.com/article/10.26599/COMMTR.2026.9640027). Code, data, and models are publicly available at [GitHub](https://github.com/ys-qu/found-rl).
+The paper is now available online on <a href="https://www.sciopen.com/article/10.26599/COMMTR.2026.9640027">SciOpen</a>. Code, data, and models are publicly available at <a href="https://github.com/ys-qu/found-rl">GitHub</a>.

@@ -69,7 +69,7 @@ layout: default
       <hr>
     {% endif %}
     <div id="markdown-content">
-      {% if page.collection and page.collection.label == 'news' %}
+      {% if page.path contains '_news/' %}
         {{ content | markdownify }}
       {% else %}
         {{ content }}
