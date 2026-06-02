@@ -127,6 +127,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/I-attended-and-presented-at-the-Purdue-AI-Research-Showcase!/";
+            },},{id: "news-i-attended-the-2026-ccat-global-symposium",
+          title: '👏 I attended the 2026 CCAT Global Symposium!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/I-attended-the-2026-CCAT-Global-Symposium!/";
             },},{id: "news-found-rl-accepted-by-communications-in-transportation-research-commtr",
           title: '🎉 Found-RL accepted by Communications in Transportation Research (COMMTR)!',
           description: "",
