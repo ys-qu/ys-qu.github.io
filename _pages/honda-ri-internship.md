@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 👏 I joined Honda-RI as a research intern this summer!
-date: 2026-06-26
+date: 2026-05-26
 permalink: /news/I-joined-HONDA-RI-as-a-research-intern-this-summer!/
 related_posts: false
 image: /assets/img/honda-ri.jpg

@@ -272,7 +272,7 @@ h5:hover {
 <div class="honors-container">
   <h5 id="year-2026" style="text-align: left;">2026</h5>
   <ul class="awards-list">
-    <li>Lyles Teaching Assistant Award, Lyles School of Civil and Construction Engineering, Purude University</li>
+    <li>Lyles Teaching Assistant Award, Lyles School of Civil and Construction Engineering, Purdue University</li>
   </ul>
 </div>
 
