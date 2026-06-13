@@ -200,6 +200,7 @@ h5:hover {
     <li>Transportation Engineering</li>
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Expert Systems With Applications</li>
+    <li>International Journal of Computational Intelligence Systems</li>
     <li>Neural Networks</li>
     <li>Neurocomputing</li>
     <li>Physica A: Statistical Mechanics and its Applications</li>
