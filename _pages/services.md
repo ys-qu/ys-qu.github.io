@@ -201,11 +201,13 @@ h5:hover {
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Expert Systems With Applications</li>
     <li>International Journal of Computational Intelligence Systems</li>
+    <li>Artificial Intelligence Review</li>
     <li>Neural Networks</li>
     <li>Neurocomputing</li>
     <li>Physica A: Statistical Mechanics and its Applications</li>
     <li>Applied Intelligence</li>
     <li>Journal of Infrastructure Systems</li>
+    <li>The Journal of Supercomputing</li>
     <li>PeerJ Computer Science</li>
   </ul>
 </div>
