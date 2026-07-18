@@ -208,6 +208,7 @@ h5:hover {
     <li>Applied Intelligence</li>
     <li>Journal of Infrastructure Systems</li>
     <li>The Journal of Supercomputing</li>
+    <li>Scientific Reports</li>
     <li>PeerJ Computer Science</li>
   </ul>
 </div>
