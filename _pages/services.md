@@ -198,6 +198,7 @@ h5:hover {
   <ul class="services-list academic-services">
     <li>Transportation Research Part C: Emerging Technologies</li>
     <li>Transportation Engineering</li>
+    <li>Knowledge-Based Systems</li>
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Expert Systems With Applications</li>
     <li>International Journal of Computational Intelligence Systems</li>
