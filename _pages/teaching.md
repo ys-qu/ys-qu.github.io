@@ -6,11 +6,6 @@ nav: true
 nav_order: 6
 ---
 
-<blockquote class="quote-card">
-  "Innovation distinguishes between a leader and a follower."
-  <footer>— Steve Jobs</footer>
-</blockquote>
-
 <div class="teaching-card d-flex align-items-center mb-4 p-4 rounded"
      style="background:#faf5ff; border-left:5px solid #a855f7; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
   
