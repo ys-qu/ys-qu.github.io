@@ -197,6 +197,7 @@ h5:hover {
   <h5 style="text-align: left;">Journal Reviewer</h5>
   <ul class="services-list academic-services">
     <li>Transportation Research Part C: Emerging Technologies</li>
+    <li>Transportation Research Part E: Logistics and Transportation Review</li>
     <li>Transportation Engineering</li>
     <li>Knowledge-Based Systems</li>
     <li>Engineering Applications of Artificial Intelligence</li>

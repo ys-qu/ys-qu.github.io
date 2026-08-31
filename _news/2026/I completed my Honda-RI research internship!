@@ -1,0 +1,28 @@
+---
+layout: post
+title: 🎉 I completed my Honda-RI research internship!
+date: 2026-08-30
+inline: false
+related_posts: false
+image: /assets/img/honda-ri-1.jpg
+image_fit: cover
+selected: true
+---
+
+I recently completed my research internship at <strong>Honda Research Institute USA (Honda-RI)</strong>.
+
+I worked on autonomous-driving dataset curation and an end-to-end data pipeline covering raw-data processing, annotation and correction, and benchmarking.
+
+I am especially grateful to my manager, <a href="https://www.linkedin.com/in/jovindsa/">Jovin D'sa</a>, for his mentorship, thoughtful feedback, and continued support throughout the internship. His guidance helped me navigate technical challenges and refine my approach to research and data engineering. I also sincerely thank my colleagues at Honda-RI for sharing their expertise and creating such a collaborative and welcoming environment.
+
+<div style="display: flex; flex-direction: column; gap: 20px; margin-top: 20px;">
+  <div style="text-align: center;">
+    <img src="/assets/img/honda-ri-1.jpg" alt="With my manager at Honda Research Institute USA" style="width: 80%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>With my manager, Jovin D'sa.</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/honda-ri-2.jpg" alt="With colleagues at Honda Research Institute USA" style="width: 80%; border-radius: 10px;">
+    <p style="margin-top: 10px;"><strong>With colleagues at Honda-RI.</strong></p>
+  </div>
+</div>
