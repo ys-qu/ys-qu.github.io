@@ -22,23 +22,28 @@
         </h2>
 
         {% if item.preview_images %}
-          <div class="news-visual__images{% if item.preview_images.size == 1 %} news-visual__images--single{% endif %}">
+          <div
+            class="news-visual__images{% if item.preview_images.size == 1 %} news-visual__images--single{% endif %}"
+            style="grid-template-columns: repeat(auto-fit, minmax(140px, 180px));"
+          >
             {% for preview in item.preview_images limit: 3 %}
               <img
                 class="news-visual__image"
                 src="{{ preview.src | relative_url }}"
                 alt="{{ preview.alt | default: item.title | strip_html | escape }}"
                 loading="lazy"
+                style="width: 180px; height: 135px; max-width: 100%;"
               >
             {% endfor %}
           </div>
         {% elsif item.image %}
-          <div class="news-visual__images news-visual__images--single">
+          <div class="news-visual__images news-visual__images--single" style="grid-template-columns: minmax(0, 180px);">
             <img
               class="news-visual__image"
               src="{{ item.image | relative_url }}"
               alt="{{ item.image_alt | default: item.title | strip_html | escape }}"
               loading="lazy"
+              style="width: 180px; height: 135px; max-width: 100%;"
             >
           </div>
         {% endif %}
