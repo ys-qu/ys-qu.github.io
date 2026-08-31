@@ -1,0 +1,50 @@
+<div class="news-visual">
+  {% if site.news != blank %}
+    {% assign news = site.news | sort: 'date' | reverse %}
+    {% for item in news %}
+      {% if item.redirect and item.selected != true %}
+        {% continue %}
+      {% endif %}
+
+      <article class="news-visual__item">
+        <time class="news-visual__date" datetime="{{ item.date | date_to_xmlschema }}">
+          {{ item.date | date: '%B %d, %Y' }}
+        </time>
+
+        <h2 class="news-visual__title">
+          {% if item.inline %}
+            {{ item.title }}
+          {% elsif item.redirect %}
+            <a href="{{ item.redirect | relative_url }}">{{ item.title }}</a>
+          {% else %}
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endif %}
+        </h2>
+
+        {% if item.preview_images %}
+          <div class="news-visual__images{% if item.preview_images.size == 1 %} news-visual__images--single{% endif %}">
+            {% for preview in item.preview_images limit: 3 %}
+              <img
+                class="news-visual__image"
+                src="{{ preview.src | relative_url }}"
+                alt="{{ preview.alt | default: item.title | strip_html | escape }}"
+                loading="lazy"
+              >
+            {% endfor %}
+          </div>
+        {% elsif item.image %}
+          <div class="news-visual__images news-visual__images--single">
+            <img
+              class="news-visual__image"
+              src="{{ item.image | relative_url }}"
+              alt="{{ item.image_alt | default: item.title | strip_html | escape }}"
+              loading="lazy"
+            >
+          </div>
+        {% endif %}
+      </article>
+    {% endfor %}
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
+</div>

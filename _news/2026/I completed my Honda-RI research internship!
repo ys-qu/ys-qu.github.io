@@ -6,6 +6,11 @@ inline: false
 related_posts: false
 image: /assets/img/honda-ri-1.jpg
 image_fit: cover
+preview_images:
+  - src: /assets/img/honda-ri-1.jpg
+    alt: With my manager, Jovin D'sa, at Honda Research Institute USA
+  - src: /assets/img/honda-ri-2.jpg
+    alt: With colleagues at Honda Research Institute USA
 selected: true
 ---
 
