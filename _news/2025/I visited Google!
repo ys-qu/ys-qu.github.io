@@ -6,6 +6,11 @@ inline: false
 related_posts: false
 image: /assets/img/news/2025/google/Jan_06_2025_Visited_Google.jpg
 image_fit: cover
+preview_images:
+  - src: /assets/img/news/2025/google/Jan_06_2025_Visited_Google.jpg
+    alt: Visiting Google
+  - src: /assets/img/news/2025/google/Jan_06_2025_Visited_Google_Badge.jpg
+    alt: Google visitor badge
 selected: true
 ---
 

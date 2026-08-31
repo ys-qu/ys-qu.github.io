@@ -6,6 +6,15 @@ inline: false
 related_posts: false
 image: /assets/img/news/2025/trb/group.jpg
 image_fit: cover
+preview_images:
+  - src: /assets/img/news/2025/trb/group.jpg
+    alt: Group members at the 2025 TRB Annual Meeting
+  - src: /assets/img/news/2025/trb/Jan_05_2025_Congress.jpg
+    alt: The United States Capitol in snow
+  - src: /assets/img/news/2025/trb/Jan_05_2025_Monument.jpg
+    alt: The Washington Monument in snow
+  - src: /assets/img/news/2025/trb/Jan_05_2025_Impression_Sunrise.jpg
+    alt: Impression Sunrise at the National Gallery of Art
 selected: true
 ---
 

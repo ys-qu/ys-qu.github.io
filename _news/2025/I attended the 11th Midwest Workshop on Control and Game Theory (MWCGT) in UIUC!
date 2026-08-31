@@ -6,6 +6,11 @@ inline: false
 related_posts: false
 image: /assets/img/news/2025/uiuc/poster.jpg
 image_fit: cover
+preview_images:
+  - src: /assets/img/news/2025/uiuc/poster.jpg
+    alt: Presenting a poster at MWCGT in UIUC
+  - src: /assets/img/news/2025/uiuc/campus.jpg
+    alt: UIUC campus during MWCGT
 selected: true
 ---
 

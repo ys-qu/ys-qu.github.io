@@ -6,6 +6,13 @@ inline: false
 related_posts: false
 image: /assets/img/news/2024/purdue/purdue-1.jpg
 image_fit: cover
+preview_images:
+  - src: /assets/img/news/2024/purdue/purdue-1.jpg
+    alt: Purdue University campus moment
+  - src: /assets/img/news/2024/purdue/purdue-2.jpg
+    alt: Joining Purdue University
+  - src: /assets/img/news/2024/purdue/purdue-3.jpg
+    alt: Purdue University welcome moment
 selected: true
 ---
 

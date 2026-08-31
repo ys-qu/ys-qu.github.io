@@ -6,6 +6,15 @@ inline: false
 related_posts: false
 image: /assets/img/news/2024/graduation/grad-1.jpg
 image_fit: cover
+preview_images:
+  - src: /assets/img/news/2024/graduation/grad-1.jpg
+    alt: Graduation with group members at BJUT
+  - src: /assets/img/news/2024/graduation/grad-2.jpg
+    alt: Graduation moment at BJUT
+  - src: /assets/img/news/2024/graduation/grad-3.jpg
+    alt: Graduation group photo at BJUT
+  - src: /assets/img/news/2024/graduation/grad-4.jpg
+    alt: Celebrating graduation from BJUT
 selected: true
 ---
 

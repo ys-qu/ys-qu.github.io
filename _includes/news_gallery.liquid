@@ -26,7 +26,7 @@
             class="news-visual__images{% if item.preview_images.size == 1 %} news-visual__images--single{% endif %}"
             style="grid-template-columns: repeat(auto-fit, minmax(140px, 180px));"
           >
-            {% for preview in item.preview_images limit: 3 %}
+            {% for preview in item.preview_images limit: 4 %}
               <img
                 class="news-visual__image"
                 src="{{ preview.src | relative_url }}"

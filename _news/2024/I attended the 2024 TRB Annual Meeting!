@@ -6,6 +6,15 @@ inline: false
 related_posts: false
 image: /assets/img/news/2024/trb/trb-1.jpg
 image_fit: cover
+preview_images:
+  - src: /assets/img/news/2024/trb/trb-1.jpg
+    alt: BJUT members at the 2024 TRB Annual Meeting
+  - src: /assets/img/news/2024/trb/trb-2.jpg
+    alt: Poster presentation at the 2024 TRB Annual Meeting
+  - src: /assets/img/news/2024/trb/trb-3.jpg
+    alt: Sky-Lab members at the 2024 TRB Annual Meeting
+  - src: /assets/img/news/2024/trb/trb-4.jpg
+    alt: Sky-Lab group photo at the 2024 TRB Annual Meeting
 selected: true
 ---
 
