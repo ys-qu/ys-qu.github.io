@@ -198,6 +198,7 @@ h5:hover {
   <ul class="services-list academic-services">
     <li>Transportation Research Part C: Emerging Technologies</li>
     <li>Transportation Research Part E: Logistics and Transportation Review</li>
+    <li>Transportation Research Part F: Traffic Psychology and Behaviour</li>
     <li>Transportation Engineering</li>
     <li>Knowledge-Based Systems</li>
     <li>Engineering Applications of Artificial Intelligence</li>
