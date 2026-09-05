@@ -202,6 +202,7 @@ h5:hover {
     <li>Transportation Engineering</li>
     <li>Knowledge-Based Systems</li>
     <li>Engineering Applications of Artificial Intelligence</li>
+    <li>Swarm and Evolutionary Computation</li>
     <li>Expert Systems With Applications</li>
     <li>International Journal of Computational Intelligence Systems</li>
     <li>Artificial Intelligence Review</li>
