@@ -201,6 +201,7 @@ h5:hover {
     <li>Transportation Research Part F: Traffic Psychology and Behaviour</li>
     <li>Transportation Engineering</li>
     <li>Knowledge-Based Systems</li>
+    <li>Information Processing and Management</li>
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Swarm and Evolutionary Computation</li>
     <li>Expert Systems With Applications</li>

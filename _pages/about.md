@@ -82,7 +82,7 @@ I aim to bridge the gap between theoretical advancements and practical applicati
             max-width:65%;   /* 控制整体宽度 */
             ">
   🔔 <strong>I am currently looking for 
-    <span style="color:#d946ef;">Summer 2026</span> internships.</strong> 
+    <span style="color:#d946ef;">Spring/Summer 2027</span> internships.</strong> 
   I would sincerely appreciate any opportunities or guidance. 
   Please feel free to reach out via 
   <a href="mailto:qu120@purdue.edu">Email</a> or 
