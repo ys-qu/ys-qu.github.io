@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 8
 description: Latest curriculum vitae.
-cv_pdf: CV-Yansong-Qu.pdf
+cv_pdf: Yansong_Qu_CV.pdf
 _styles: |
   .cv-embed-wrapper {
     width: 100vw;
@@ -34,7 +34,7 @@ _styles: |
 ---
 
 <p style="margin-bottom: 1rem;">
-  <a href="{{ '/assets/pdf/CV-Yansong-Qu.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0" role="button">
+  <a href="{{ '/assets/pdf/Yansong_Qu_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0" role="button">
     <i class="fa-solid fa-file-pdf"></i> Download PDF
   </a>
 </p>
@@ -42,7 +42,7 @@ _styles: |
 <div class="cv-embed-wrapper">
   <iframe
     class="cv-embed"
-    src="{{ '/assets/pdf/CV-Yansong-Qu.pdf' | relative_url }}?v=20260710#view=FitH&toolbar=1"
+    src="{{ '/assets/pdf/Yansong_Qu_CV.pdf' | relative_url }}?v=20261008#view=FitH&toolbar=1"
     title="Yansong Qu CV"
   ></iframe>
 </div>
