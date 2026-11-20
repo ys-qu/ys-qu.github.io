@@ -204,6 +204,7 @@ h5:hover {
     <li>Information Processing and Management</li>
     <li>Pattern Recognition</li>
     <li>Simulation Modelling Practice and Theory</li>
+    <li>Array</li>
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Swarm and Evolutionary Computation</li>
     <li>Expert Systems With Applications</li>
